@@ -1,0 +1,6 @@
+The file is not tracked by git yet(untracked).
+4 different statuses
+-Untracked
+-modified(changed)
+-staged(changes or new files made are added and is ready to be committed).
+-unmodified(no changes)
